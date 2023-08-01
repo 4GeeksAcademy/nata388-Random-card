@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.table {
+  background-color: green;
+}
+.my-card {
+  background-color: white;
+  width: 200px;
+  height: 300px;
+}
